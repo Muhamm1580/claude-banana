@@ -37,27 +37,19 @@ git clone https://github.com/Hainrixz/claude-banana.git
 cd claude-banana
 ```
 
-### Step 3: Start the Agent
+### Step 3: Start Claude and Ask
 
 ```bash
 claude
 ```
 
-Then type:
+Then just describe what you want in plain words:
 
 ```
-/agent prompt-architect
+"Help me create a prompt for a cozy coffee shop with warm lighting and a cat sleeping on some books"
 ```
 
-### Step 4: Tell It What You Want
-
-Just say it in your own words:
-
-```
-"I want a cozy coffee shop with warm lighting and a cat sleeping on some books"
-```
-
-The agent will ask you a couple of questions (like "What's the mood?" or "Where will you use this image?"), and then give you a perfect prompt ready to paste into any image generator.
+Claude automatically picks up the prompt-architect agent and knowledge base from this project. It will ask you a couple of questions (like "What's the mood?" or "Where will you use this image?"), and then give you a perfect prompt ready to paste into any image generator.
 
 ---
 

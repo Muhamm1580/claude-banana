@@ -12,10 +12,12 @@ When a user provides a prompt idea, image reference, or existing prompt to refin
 4. **Present** — Outputs a copyable master prompt with rationale and variation suggestions
 5. **Iterate** — Accepts adjustments without starting from scratch
 
-## Invoking the Agent
+## Using the Agent
+
+Start Claude Code in this project directory. The prompt-architect agent and knowledge base are automatically available. Just describe what image you want to create:
 
 ```
-/agent prompt-architect
+"Help me create a prompt for a moody portrait of a jazz musician"
 ```
 
 ## File Layout

@@ -122,20 +122,20 @@ If you have a Google AI API key (free from [aistudio.google.com](https://aistudi
 
 ```bash
 # Check your setup
-python scripts/validate_setup.py
+python3 scripts/validate_setup.py
 
 # Generate an image from a prompt
-python scripts/generate.py --prompt "your optimized prompt here"
+python3 scripts/generate.py --prompt "your optimized prompt here"
 
 # Generate from a template with custom values
-python scripts/generate.py --template templates/examples/cinematic-landscape.md \
+python3 scripts/generate.py --template templates/examples/cinematic-landscape.md \
   --vars '{"location": "mountain lake", "time_of_day": "sunset"}'
 
 # Edit an existing image
-python scripts/edit.py --image photo.png --instruction "make it look like autumn"
+python3 scripts/edit.py --image photo.png --instruction "make it look like autumn"
 
 # Generate a batch of variations
-python scripts/batch.py --template templates/examples/product-showcase.md \
+python3 scripts/batch.py --template templates/examples/product-showcase.md \
   --variations my_products.json
 ```
 

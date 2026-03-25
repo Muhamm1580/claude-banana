@@ -89,7 +89,7 @@ def main():
     template_count = len(list(templates_dir.glob("*.md"))) if templates_dir.exists() else 0
     passed += check(
         "Templates",
-        template_count >= 20,
+        template_count >= 25,
         f"{template_count} templates found",
     )
 

